@@ -1,4 +1,4 @@
-import { Header } from "../components/header.tsx";
+import { Header } from "../components/Header.tsx";
 import { Form } from "../islands/Form.tsx";
 
 const Page = ( ) => {
